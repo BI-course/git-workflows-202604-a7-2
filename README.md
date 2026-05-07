@@ -6,7 +6,9 @@
 | **Course Codes** | BBT 4106                                                                                                                                                                                                                     |
 | **Course Names** | BBT 4106: Business Intelligence I (Week 1-3 of 13)                                                                                                                                                                             |
 | **Semester**     | April to July 2026                                                                                                                                                                                                           |
-| **Lecturer**     | Allan Omondi                                                                                                                                                                                                                 |
+| **Lecturer**     | Allan Omondi                                                                                                My name is Paul and below are my collugues names:
+Brian, Brandon,Este, & Kevin
+                                                                                                               |
 | **Contact**      | aomondi@strathmore.edu                                                                                                                                                                                                       |
 | **Note**         | The lecture contains both theory and practice.<br/>This notebook forms part of the practice.<br/>It is intended for educational purpose only.<br/>Recommended citation: [BibTex](https://raw.githubusercontent.com/course-files/Git/refs/heads/main/RecommendedCitation.bib) |
 
